@@ -4,6 +4,13 @@ A Google Chrome Extension for enhanced productivity when using Gmail. The extens
 
 ![Mockup of Interface](https://github.com/devmart10/gmail-countdown/blob/master/gmail-countdown.png)
 
+## How to Run
+1. Create the project directory with `git clone https://github.com/devmart10/gmail-countdown.git`
+2. Open Chrome and go to `chrome://extensions`
+3. Click `Load unpacked extension`
+4. Select the project directory
+5. The extension should now appear with an icon in the top right
+
 ## Goals
 ### 2/2 - 2/15
 - Conduct research into building a Chrome extension. Look at example projects.

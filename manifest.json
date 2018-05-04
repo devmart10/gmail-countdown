@@ -12,5 +12,11 @@
   "permissions": [
     "activeTab",
     "storage"
-  ]
+  ],
+  "content_scripts": [
+     {
+       "matches": ["*://mail.google.com/*"],
+       "js": ["GmailCountdown.js"]
+     }
+   ]
 }
